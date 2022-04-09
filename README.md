@@ -9,4 +9,7 @@
 ## Benefits of using JsonPowerDB
 ![4](https://user-images.githubusercontent.com/68528688/162586676-763a9c41-ffb1-4bb8-8603-c81719e642ae.png)
 
+## Release History 
+10/04/2022
+
     
