@@ -1,7 +1,7 @@
 
 # JsonPowerDB Tutorial
 
-#Link for Student Enrollment Form
+# Link for Student Enrollment Form
 
 https://github.com/Chitrak07/Student-Enrollment-Form
 
